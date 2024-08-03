@@ -27,3 +27,11 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# KiCAD Libmanagement files
+libmanagement/*.kicad_prl
+libmanagement/sym-lib-table
+libmanagement/*
+
+# Backup files
+symbols/*.bak
